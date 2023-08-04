@@ -115,6 +115,12 @@ npm install -g json-server
     ]
 }
 ```
+4. Save this file.
+5. Time to test your configuration. From the command line, at the root of your project run the following commands.
+   ```bash 
+         json-server --watch db.json
+    ```
+7. In your web browser, navigate to the http://localhost:3000/locations and confirm that the response includes the data stored in db.json.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
