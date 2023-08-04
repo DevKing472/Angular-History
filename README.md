@@ -1,4 +1,4 @@
-# MyApp
+# [Angular Tutorial App](https://angular.io/tutorial/first-app)
 
 ## Step 1 - Configure the JSON server
 JSON Server is an open source tool used to create mock REST APIs. You'll use it to serve the housing location data that is currently stored in the housing service.
